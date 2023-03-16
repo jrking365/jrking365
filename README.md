@@ -13,6 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [DRY: Don&#39;t Repeat Yourself](https://dev.to/jrking365/dry-dont-repeat-yourself-531c)
+- [TIL: ruby factory bot and models association : `after&lpar;:build&rpar;`](https://dev.to/jrking365/til-ruby-factory-bot-and-models-association-afterbuild-3i71)
+- [How do you discipline yourself? Idea and tools](https://dev.to/jrking365/how-do-you-discipline-yourself-idea-and-tools-48gm)
+- [Tips on improving Web accessibility](https://dev.to/jrking365/tips-on-improving-web-accessibility--32jc)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
